@@ -1,0 +1,45 @@
+commit 8ba54cd9d876b0e46d348b9ce84339a97b035a89
+Merge: 38e8845 a4d4116
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 17:40:12 2025 -0700
+
+    Resolved merge conflict in the file
+
+commit a4d4116b253540390d6b9fdd531dd14573075981
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 17:38:02 2025 -0700
+
+    Added favorite movie to the file
+
+commit 38e88455582e718ac572dba6705a98aab52db46f
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 17:36:27 2025 -0700
+
+    Added favorite food to the file
+
+commit f0464bc2c6093117501a7f99a62931c772f1004a
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 16:46:47 2025 -0700
+
+    Adding a README describing what i'm doing
+
+commit 1e986532e7b4c2edb3d008261c55a819c2fa6743
+Merge: 1d2bfc0 7a86a63
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 16:43:26 2025 -0700
+
+    Merge pull request #1 from amadoesme/info-fill
+    
+    Filled in the two blanks
+
+commit 7a86a63ad5e52bddafbb932c56d90f9090afc740
+Author: Esmeralda Amado <amadoesmeralda6@gmail.com>
+Date:   Wed Sep 3 16:31:18 2025 -0700
+
+    Filled in the two blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
